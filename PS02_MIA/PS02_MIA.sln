@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS02_MIA", "PS02_MIA\PS02_MIA.csproj", "{DD0E14B8-F292-4A11-9DF5-1D9A4307CD94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD0E14B8-F292-4A11-9DF5-1D9A4307CD94}.Debug|x86.ActiveCfg = Debug|x86
+		{DD0E14B8-F292-4A11-9DF5-1D9A4307CD94}.Debug|x86.Build.0 = Debug|x86
+		{DD0E14B8-F292-4A11-9DF5-1D9A4307CD94}.Release|x86.ActiveCfg = Release|x86
+		{DD0E14B8-F292-4A11-9DF5-1D9A4307CD94}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

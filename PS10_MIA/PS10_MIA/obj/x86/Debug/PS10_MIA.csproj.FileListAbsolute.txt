@@ -1,0 +1,4 @@
+C:\Users\Via Marie\Desktop\PS01_01_MIA\PS10_MIA\PS10_MIA\bin\Debug\PS10_MIA.exe
+C:\Users\Via Marie\Desktop\PS01_01_MIA\PS10_MIA\PS10_MIA\bin\Debug\PS10_MIA.pdb
+C:\Users\Via Marie\Desktop\PS01_01_MIA\PS10_MIA\PS10_MIA\obj\x86\Debug\PS10_MIA.exe
+C:\Users\Via Marie\Desktop\PS01_01_MIA\PS10_MIA\PS10_MIA\obj\x86\Debug\PS10_MIA.pdb

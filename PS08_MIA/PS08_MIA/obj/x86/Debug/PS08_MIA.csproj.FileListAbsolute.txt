@@ -1,0 +1,5 @@
+C:\Users\Via Marie\Desktop\PS01_01_MIA\PS08_MIA\PS08_MIA\bin\Debug\PS08_MIA.exe
+C:\Users\Via Marie\Desktop\PS01_01_MIA\PS08_MIA\PS08_MIA\bin\Debug\PS08_MIA.pdb
+C:\Users\Via Marie\Desktop\PS01_01_MIA\PS08_MIA\PS08_MIA\obj\x86\Debug\PS08_MIA.exe
+C:\Users\Via Marie\Desktop\PS01_01_MIA\PS08_MIA\PS08_MIA\obj\x86\Debug\PS08_MIA.pdb
+C:\Users\Via Marie\Desktop\PS01_01_MIA\PS08_MIA\PS08_MIA\obj\x86\Debug\PS08_MIA.csprojResolveAssemblyReference.cache
